@@ -8,7 +8,7 @@ Code used to train and test agents on Atari
 **results**: by default, the output of scripts from the experiments folder is saved here
 **plotting**: loads data from the results folder and plots it, yielding the figures in our paper
 
-#Running experiments: example
+# Running experiments: example
 We provide example scripts for training agents on both Cartpole and Atari.
 
 To train a QR-DQN agent on CartPole, run the following command from this folder:
