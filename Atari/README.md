@@ -3,7 +3,7 @@ Code used to train and test agents on Atari
 
 # Structure
 
-**agent**: the learning agents: DQN, IDS, QR-DQN, Bootstrapped DQN, and QR-DQN with Thompson sampling (EQRDQN)
+** agent **: the learning agents: DQN, IDS, QR-DQN, Bootstrapped DQN, and QR-DQN with Thompson sampling (EQRDQN)
 **experiments**: containing scripts to train and test agents.
 **results**: by default, the output of scripts from the experiments folder is saved here
 **plotting**: loads data from the results folder and plots it, yielding the figures in our paper
