@@ -32,4 +32,4 @@ For Atari, we have included evaluation scores every 1 million frames in the resu
 python -m plotting.plot_atari
 '''
 
-Note: trained agent weights are quite large and are thus not included in this folder. We can provide agent weights and the script used to produce figure 5 in our paper upon reasonable request.
+Note: trained agent weights are quite large and are thus not included in this folder. We can provide agent weights and the script used to produce figure 4 in our paper upon reasonable request.
